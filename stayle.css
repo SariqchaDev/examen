@@ -1,0 +1,37 @@
+.form{
+width: 300px;
+padding: 20px;
+text-align: center;
+margin: 0 auto;
+margin-top: 40px;
+}
+
+button{
+    width: 50%;
+ background-color: green;
+ border-radius: 20px;
+ height: 20px;
+}
+h1{
+    background-color: rgb(206, 146, 73);
+    text-align: center;
+}
+label{
+    color: yellow;
+}
+input{
+    border-radius: 20px;
+    width: 75%;
+    height: 20px;
+}
+div{
+    background-color: black;
+    border-radius: 10px;
+}
+iframe{
+    text-align: center;
+}
+
+
+
+
